@@ -1,6 +1,7 @@
 # Projeto Calculadora IMC
 
 Projeto criado na aula de Linguagem de Programação do curso de Análise e Desenvolvimento de Sistemas da Fatec Itu.
+> 2026 - 1º semestre
 
 ## 🚀Tecnologias utilizadas
 - HTML5
